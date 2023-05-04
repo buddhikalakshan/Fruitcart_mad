@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">signup</string>
+    <string name="siginup">SIGN UP</string>
+    <string name="usn">UserName</string>
+    <string name="mail">Email</string>
+    <string name="resi">REGISTER</string>
+</resources>
